@@ -1,0 +1,50 @@
+body {
+    background: #0058ac;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: #FFF;
+}
+
+
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF;
+    width: 40%;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.contenedor p {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.contenedor input {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #e1e1e1;
+}
+
+.contenedor .contenedor-btn {
+    margin-top: 50px;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenedor button {
+    padding: 10px;
+    width: 40%;
+    color: #FFF;
+    border: #e1e1e1;
+    background-color: #0058ac;
+    cursor: pointer;
+}
