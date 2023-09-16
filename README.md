@@ -1,5 +1,5 @@
 # Juego-de-Preguntas-JavaScript
-Este juego pertenece a un curso JavaScript TOTAL de Federico
+Este juego pertenece a un curso JavaScript TOTAL de Federico.
 
 ## Como jugar
 el juego consiste en 5 preguntas que tienen un limite de 30 segundos para contestar una vez termine el tiempo saldra una alerta con un game over, pero si contesto a todas las preguntas de click al botton enviar y 
